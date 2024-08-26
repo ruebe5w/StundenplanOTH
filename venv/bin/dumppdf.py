@@ -1,4 +1,4 @@
-#!/home/christopher/Documents/StundenplanOTH/venv/bin/python3
+#!/home/rudie/Sync/Privat/Technikkrams/Programmierkrams/StundenplanOTH/venv/bin/python3
 """Extract pdf structure in XML format"""
 import logging
 import os.path
