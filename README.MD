@@ -5,7 +5,7 @@ StundenplanOTH ist ein Jupyter Notebook zum Parsen von PDF-Stundenplänen der OT
 Erzeugt wird eine Json-Datei mit allen Stundenplänen von allen PDF-Dateien im Ordner "Stundenpläne".
 
 Die Json-Datei ist folgendermaßen aufgebaut:
-
+```
 {Kürzel des Studiengangs:{
     Kürzel des Studiengangs mit Studiensemester:
         [
@@ -22,6 +22,6 @@ Die Json-Datei ist folgendermaßen aufgebaut:
         ]
     }
 }
-
+```
 ## TODO
 - longname: Aktuell werden keine longnames in die Json-Datei geschrieben. Eventuell wird dieser Eintrag entfernt und eine zusätzliche Übersetzungstabelle wird hinzugefügt
