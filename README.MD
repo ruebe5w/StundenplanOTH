@@ -23,5 +23,8 @@ Die Json-Datei ist folgendermaßen aufgebaut:
     }
 }
 ```
+## timetable.json
+Aktuelle Json-Files sind als Release verfügbar.
+
 ## TODO
 - longname: Aktuell werden keine longnames in die Json-Datei geschrieben. Eventuell wird dieser Eintrag entfernt und eine zusätzliche Übersetzungstabelle wird hinzugefügt
